@@ -1,5 +1,6 @@
 # Algorithmic-Baby-Maker
 Combining high learning rates with selective unlearning could open new avenues for efficient and intelligent neural network training.
+![DALL·E 2025-01-22 14 32 40 - A futuristic, comedic illustration representing a baby-themed AI learning algorithm  The scene includes a baby in a high-tech lab wearing a VR headset](https://github.com/user-attachments/assets/02b6ca7a-9e20-4dd5-b194-b9cf37d8efd0)
 
 "BabyNet: A Neural Framework Inspired by Cognitive Development for Efficient Learning and Forgetting in Artificial Systems"
 Abstract
